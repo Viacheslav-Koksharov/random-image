@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/random-image/static/css/main.96ef3a6e.css",
+    "main.js": "/random-image/static/js/main.07a89f00.js",
+    "static/media/planets.jpg": "/random-image/static/media/planets.5edf5ad32592454b0b8a.jpg",
+    "static/media/dyno.jpg": "/random-image/static/media/dyno.cccaf150e6833b009261.jpg",
+    "static/media/cats.jpg": "/random-image/static/media/cats.e2383e9ad36ee59ed196.jpg",
+    "static/media/dogs.jpg": "/random-image/static/media/dogs.5558919496a6ec6f01b5.jpg",
+    "static/media/chubaka.jpg": "/random-image/static/media/chubaka.082a04fa94ae24c63e95.jpg",
+    "index.html": "/random-image/index.html",
+    "main.96ef3a6e.css.map": "/random-image/static/css/main.96ef3a6e.css.map",
+    "main.07a89f00.js.map": "/random-image/static/js/main.07a89f00.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96ef3a6e.css",
+    "static/js/main.07a89f00.js"
+  ]
+}
